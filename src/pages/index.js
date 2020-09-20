@@ -6,15 +6,10 @@ import SEO from '../components/seo/seo';
 import InterviewGrid from '../components/interview-grid/interview-grid';
 
 export default ({ data, location }) => {
-  const interviews = data.allInterviewsJson.nodes;
 
   return (
     <Layout>
-      <SEO
-        title="Interview Template by Smooper"
-        keywords={[`interviews`, `entrepreneurs`, `startups`]}
-        imageURL={data.file.publicURL}
-      />
+    
       <section className="hero">
         <div className="hero-body">
           <div className="container has-text-centered">
@@ -26,10 +21,7 @@ export default ({ data, location }) => {
                 fontWeight: 400,
               }}
             >
-              Interview Template by{' '}
-              <span style={{ textDecoration: 'underline' }}>
-                <a href="https://www.smooper.com">smooper.com</a>
-              </span>
+            
             </h1>
             <h2
               className="is-size-4"
@@ -39,7 +31,6 @@ export default ({ data, location }) => {
                 fontWeight: 400,
               }}
             >
-              The perfect Q&A template for your website or blog
             </h2>
           </div>
         </div>

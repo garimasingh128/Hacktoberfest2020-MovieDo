@@ -51,25 +51,3 @@ export default ({ data, location }) => {
   );
 };
 
-export const query = graphql`
-  query {
-    file(relativePath: { eq: "images/logo-og.png" }) {
-      publicURL
-    }
-    allInterviewsJson(sort: { fields: timestamp, order: DESC }) {
-      nodes {
-        slug
-        name
-        title
-        position
-        avatar {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-      }
-    }
-  }
-`;

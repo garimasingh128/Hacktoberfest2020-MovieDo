@@ -1,9 +1,9 @@
-import React from 'react';
-import { graphql } from 'gatsby';
+import React from "react";
+import { graphql } from "gatsby";
 
-import Layout from '../components/layout';
-import SEO from '../components/seo/seo';
-import InterviewGrid from '../components/interview-grid/interview-grid';
+import Layout from "../components/layout";
+import SEO from "../components/seo/seo";
+import InterviewGrid from "../components/interview-grid/interview-grid";
 
 export default ({ data, location }) => {
   const interviews = data.allInterviewsJson.nodes;
@@ -21,30 +21,20 @@ export default ({ data, location }) => {
             <h1
               className="is-size-3"
               style={{
-                marginBottom: '.2rem',
-                color: '#4a4a4a',
-                fontWeight: 400,
+                marginBottom: ".2rem",
+                color: "#4a4a4a",
+                fontWeight: 400
               }}
             >
-              Interview Template by{' '}
-              <span style={{ textDecoration: 'underline' }}>
-                <a href="https://www.smooper.com">smooper.com</a>
+              Your perfect movie date{" "}
+              <span style={{ textDecoration: "underline" }}>
+                <a href="https://moviedo.netlify.app">MovieDo</a>
               </span>
             </h1>
-            <h2
-              className="is-size-4"
-              style={{
-                marginBottom: '.2rem',
-                color: '#4a4a4a',
-                fontWeight: 400,
-              }}
-            >
-              The perfect Q&A template for your website or blog
-            </h2>
           </div>
         </div>
       </section>
-      <div style={{ margin: '1rem' }}>
+      <div style={{ margin: "1rem" }}>
         <InterviewGrid items={interviews} />
       </div>
     </Layout>

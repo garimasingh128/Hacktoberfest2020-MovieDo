@@ -9,7 +9,7 @@
   .navbar-item {
     padding: 20px 12px;
     img {
-      height: 1000px;
+      height: 25px;
     }
     &:not(:last-child) {
       padding-right: 1.5rem;
@@ -23,5 +23,5 @@
       color: rgba(0,0,0,.65);
     }
   }
-  background: #C3A9FF;
+  background: aliceblue;
 }

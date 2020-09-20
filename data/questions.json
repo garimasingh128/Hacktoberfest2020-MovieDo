@@ -1,0 +1,52 @@
+[
+    {
+        "questionId": "1",
+        "slug": "whats-your-current-position",
+        "question": "What’s your current position & how did you reach here?"
+    },
+    {
+        "questionId": "2",
+        "slug": "what-will-success-look-like-few-weeks",
+        "question": "What will success look like for you in your work in the next few weeks?"
+    },
+    {
+        "questionId": "3",
+        "slug": "which-social-media-platform-is-working-best",
+        "question": "Which social media platform is working best for your brand at the moment? Why do you think that is?"
+    },
+    {
+        "questionId": "4",
+        "slug": "what-have-you-found-to-be-the-most-effective-marketing",
+        "question": "What have you found to be the most effective marketing tactic/platform, beyond social media?"
+    },
+    {
+        "questionId": "5",
+        "slug": "what-are-you-actively-focused-on-learning",
+        "question": "What are you actively focused on learning about these days and how?"
+    },
+    {
+        "questionId": "6",
+        "slug": "if-you-had-the-time-to-add-one",
+        "question": "If you had the time to add one more project or tactic, what would it be, and why?"
+    },
+    {
+        "questionId": "7",
+        "slug": "what-has-been-your-biggest-challenge-recently",
+        "question": "What has been your biggest challenge recently and how did you overcome it?"
+    },
+    {
+        "questionId": "8",
+        "slug": "what-is-your-number-one-tip-for-newbies",
+        "question": "What is your #1 tip for a new founder?"
+    },
+    {
+        "questionId": "9",
+        "slug": "what-is-a-key-metric-you-are-measuring-these-days",
+        "question": "What is a key metric you’re measuring these days, and why?"
+    },
+    {
+        "questionId": "10",
+        "slug": "what-problem-are-you-focused-on-solving",
+        "question": "What is your biggest goal or obstacle?"
+    }
+]

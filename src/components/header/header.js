@@ -1,17 +1,16 @@
 // @flow
-import React, { Component } from 'react';
-import { Link } from 'gatsby';
-import { OutboundLink } from 'gatsby-plugin-gtag'
-import Logo from '../../images/logo.png';
+import React, { Component } from "react";
+import { Link } from "gatsby";
+import { OutboundLink } from "gatsby-plugin-gtag";
 
-import './header.scss';
+import Logo from "../../images/logo.png";
+import "./header.scss";
 
 type Props = {
-  onClick?: Function,
+  onClick?: Function
 };
 
 class Header extends Component<Props> {
-
   render() {
     return (
       <nav
@@ -19,15 +18,22 @@ class Header extends Component<Props> {
         role="navigation"
         aria-label="main navigation"
       >
-        <div className="navbar-item">
+        <div className="container">
           <div className="navbar-brand">
-              <OutboundLink href="https://moviedo.netlify.app" className="button is-primary">
-              MovieDo
-            </OutboundLink>
+            <Link className="navbar-item" to="https://moviedo.netlify.app">
+              <OutboundLink
+                href="https://moviedo.netlify.app"
+                className="button is-primary"
+              >
+                MovieDo
+              </OutboundLink>
+            </Link>
           </div>
-
           <div className="navbar-item">
-            <OutboundLink href="https://github.com/garimasingh128/Hacktoberfest2020-MovieDo" className="button is-primary">
+            <OutboundLink
+              href="https://github.com/garimasingh128/Hacktoberfest2020-MovieDo"
+              className="button is-primary"
+            >
               Get your reviews featured here!
             </OutboundLink>
           </div>

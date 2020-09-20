@@ -1,0 +1,15 @@
+.question-page {
+  &__item-block {
+    max-width: 840px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  &__answer-block {
+    margin-bottom: 3rem;
+    text-align: left;
+  }
+  &__answer-text {
+    margin-bottom: 1rem;
+  }
+}

@@ -1,0 +1,15 @@
+.interview-grid-item {
+    &:hover {
+      box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    &__avatar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
+    }
+    .subtitle {
+        font-size: 14px;
+        color: #6c4c41;
+    }
+  }

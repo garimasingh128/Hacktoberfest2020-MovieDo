@@ -1,0 +1,168 @@
+// Importing variables
+@import './variable.scss';
+
+// Importing Bulma from node_modules
+@import '~bulma/bulma.sass';
+
+html,
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background: aliceblue;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.content {
+  padding-top: 4rem;
+}
+
+.remove-margin-bottom {
+  margin-bottom: 0px !important;
+}
+
+.quotemark {
+  font-weight: bold;
+  font-size: 5rem;
+  display: inline-block;
+  margin-bottom: 0.8rem;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.has-left-border {
+  border-left: 4px solid;
+}
+
+/*------------------------------------
+  Background Gradients
+------------------------------------*/
+.gradient-half-primary-body-v1 {
+  background-image: linear-gradient(150deg, #2d1582 0%, #19a0ff 100%);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+.gradient-half-primary-v1 {
+  background-image: linear-gradient(150deg, #2d1582 0%, #19a0ff 100%);
+  background-repeat: repeat-x;
+}
+
+.gradient-half-primary-v2 {
+  background-image: linear-gradient(
+    0deg,
+    rgba(55, 125, 255, 0.05) 0%,
+    transparent 100%
+  );
+  background-repeat: repeat-x;
+}
+
+.gradient-half-primary-v3 {
+  background-image: linear-gradient(
+    0deg,
+    rgba(55, 125, 255, 0.1) 0%,
+    transparent 100%
+  );
+  background-repeat: repeat-x;
+}
+
+.gradient-half-primary-v4 {
+  background-image: linear-gradient(150deg, #2d1582 0%, #19a0ff 85%);
+  background-repeat: repeat-x;
+}
+
+.gradient-half-primary-v5 {
+  background-image: linear-gradient(150deg, #377dff 0%, #2d1582 100%);
+  background-repeat: repeat-x;
+}
+
+.gradient-half-info-v1 {
+  background-image: linear-gradient(0deg, #377dff 0%, #00dffc 100%);
+  background-repeat: repeat-x;
+}
+
+.gradient-half-warning-v1 {
+  background-image: linear-gradient(25deg, #ffc107 30%, #de4437 100%);
+  background-repeat: repeat-x;
+}
+
+.gradient-half-warning-v2 {
+  background-image: linear-gradient(150deg, #ffc107 0%, #efa02e 100%);
+  background-repeat: repeat-x;
+}
+
+.gradient-half-warning-v3 {
+  background-image: linear-gradient(150deg, #ffc107 0%, #de4437 100%);
+  background-repeat: repeat-x;
+}
+
+// border color
+.border-left-0 {
+  border-left-color: rgb(55, 141, 59);
+}
+
+.border-left-1 {
+  border-left-color: rgb(91, 106, 191);
+}
+
+.border-left-2 {
+  border-left-color: rgb(0, 171, 192);
+}
+
+.border-left-3 {
+  border-left-color: rgb(229, 57, 53);
+}
+
+.border-left-4 {
+  border-left-color: rgb(125, 86, 193);
+}
+
+.border-left-5 {
+  border-left-color: rgb(248, 167, 36);
+}
+
+.border-left-6 {
+  border-left-color: rgb(29, 135, 228);
+}
+
+.border-left-7 {
+  border-left-color: rgb(255, 111, 66);
+}
+
+.border-left-8 {
+  border-left-color: rgb(65, 65, 65);
+}
+
+.border-left-9 {
+  border-left-color: rgb(55, 141, 59);
+}
+
+.border-left-10 {
+  border-left-color: rgb(255, 111, 66);
+}
+
+.border-left-11 {
+  border-left-color: rgb(0, 171, 192);
+}
+
+.border-left-12 {
+  border-left-color: rgb(0, 136, 122);
+}
+
+.border-left-13 {
+  border-left-color: rgb(140, 109, 98);
+}
+
+.border-left-14 {
+  border-left-color: rgb(235, 63, 121);
+}
+
+.border-left-15 {
+  border-left-color: rgba(33, 150, 243, 0.91);
+}

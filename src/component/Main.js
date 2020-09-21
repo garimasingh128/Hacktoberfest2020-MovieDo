@@ -15,7 +15,7 @@ const newdata = data.map((data) => {
         <Card.Title>{data.desc}</Card.Title>
         <Card.Text>{data.name}</Card.Text>
 
-        <a className="btn-primary">{data.rate}</a>
+        <p className="btn-primary">{data.rate}</p>
       </Card.Body>
     </Card>
   );

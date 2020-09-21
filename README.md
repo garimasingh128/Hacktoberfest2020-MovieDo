@@ -20,12 +20,12 @@
 
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your favorite movie, its rating and its short description in our 
-https://github.com/garimasingh128/Hacktoberfest2020-MovieDo/tree/master/data/data.json
+https://github.com/garimasingh128/Hacktoberfest2020-MovieDo/tree/master/src/data/data.json
 and that counts as your first PR. 🎯
 </br>
 
 ## Just 5 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the `data/data.json` file in your code editor of choice.
+1. 🎯Open the `src/data/data.json` file in your code editor of choice.
 2. 🎯Add another json object in the same format of your favourite movie
 3. 🎯Save your changes.
 4. 🎯The movie card will appear on your homepage at `http://localhost:8000`!

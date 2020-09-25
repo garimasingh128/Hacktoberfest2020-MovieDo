@@ -1,5 +1,3 @@
-$padding-space: 144px;
-
 footer {
   clear: both;
   font-size: 14px;
@@ -7,31 +5,29 @@ footer {
   width: 100%;
   height: 20px;
   margin-top: 50px;
-  .bottom-bar {
-    border-top: 1px solid #e7eaf3 !important;
-    text-align: center;
-    margin: 0;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
+}
+footer .bottom-bar {
+  border-top: 1px solid #e7eaf3 !important;
+  text-align: center;
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   background-color: #343A40;
   color: white;
-    overflow: hidden;
-    .translate-button {
-      text-align: left;
-    }
-    .heart {
-      color: #f73f51;
-      font-size: 22px;
-    }
-  }
+  overflow: hidden;
+}
+footer .bottom-bar .translate-button {
+  text-align: left;
+}
+footer .bottom-bar .heart {
+  color: #f73f51;
+  font-size: 22px;
 }
 
 @media (min-width: 768px) {
-  footer {
-    .bottom-bar {
-      padding: 16px $padding-space;
-      line-height: 32px;
-    }
+  footer .bottom-bar {
+    padding: 16px 144px;
+    line-height: 32px;
   }
 }

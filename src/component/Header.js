@@ -1,6 +1,7 @@
 import React, { Fragment, Component } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./header.scss";
 
 export default class Header extends Component {
   render() {

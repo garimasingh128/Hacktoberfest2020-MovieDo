@@ -1,8 +1,8 @@
 .btn-primary{
   border: none;
   border-radius: 1px;
-  background: rgb(230,110,171);
-  background: linear-gradient(90deg, rgba(230,110,171,0.9808298319327731) 20%, rgba(198,98,226,1) 80%);
+  /* background: rgb(230,110,171); */
+  /* background: linear-gradient(90deg, rgba(230,110,171,0.9808298319327731) 20%, rgba(198,98,226,1) 80%); */
 }
 
 a{
@@ -20,18 +20,42 @@ background: rgb(230,110,171)  !important;
 .card{
   border: none !important;
   border-radius: 1px !important;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-
+  box-shadow: 0 4px 5px 1px #75757521;
+  border-radius: 4px!important;
 }
 .card-body {
   padding: 1.60rem !important;
+  min-height: 350px;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .card-title {
   margin-bottom: 1.4rem !important;
-  size: 10px;
+  font-size: 18px;
+  color: #25303ade;
+  line-height: 26px;
+  text-overflow: ellipsis;
+}
+.card-title span{
+  display: flex;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 p {
   margin-top: 4px !important;
   margin-bottom: 1.5rem !important;
+  font-size: 24px;
+  font-weight: 500;
+  color: #25303a;
+}
+.card-columns{
+  padding: 40px 30px;
+}
+.rating{
+  margin: 0 0 5px 0;
+  font-size: 18px;
+}
+.card-text{
+  margin-bottom: 5px!important;
 }

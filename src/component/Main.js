@@ -12,10 +12,11 @@ const newdata = data.map((data) => {
   return (
     <Card key={data.id}>
       <Card.Body>
-        <Card.Title>{data.desc}</Card.Title>
         <Card.Text>{data.name}</Card.Text>
-
-        <p className="btn-primary">{data.rate}</p>
+        <p className="rating">{data.rate}</p>
+        <Card.Title>
+          <span>{data.desc}</span>
+        </Card.Title>
       </Card.Body>
     </Card>
   );

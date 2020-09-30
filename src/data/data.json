@@ -14,5 +14,15 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+  "name": "Raazi",
+    "desc": "Raazi is based on a true story of a young girl, who was sent to Pakistan in 1971, to source out any information she could, as war was becoming imminent between India and Pakistan. It is the journey of an ordinary Indian girl, in extraordinary circumstances.",
+    "rate": "⭐⭐⭐⭐"
+  }, 
+  {
+    "name": "Wolf of the Wall street",
+    "desc": "Sex. Money. Power. Drugs. Brace yourself for an outrageous true story from legendary filmmaker Martin Scorsese. Leonardo DiCaprio stars as a young stockbroker hungry for a life of non-stop thrills, where corruption was king and more was never enough.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]

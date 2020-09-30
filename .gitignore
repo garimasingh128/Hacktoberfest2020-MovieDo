@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Github config file
+.github
+
+# build folder
+build/

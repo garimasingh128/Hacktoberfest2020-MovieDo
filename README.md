@@ -62,7 +62,7 @@ and that counts as your first PR. 🎯
 #### See Our Website at: https://hacktoberfest.netlify.com/
 
 
-#### Move to Instructions by clicking on the <pre>START CONTRIBUTING</pre> button 
+##### Move to Instructions by clicking on the <pre>START CONTRIBUTING</pre> button 
 
 
 

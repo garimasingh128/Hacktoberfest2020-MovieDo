@@ -28,7 +28,7 @@ footer {
 
 @media (min-width: 768px) {
   footer  .bottom-bar {
-      padding: 16px $padding-space 144px;
+      padding: 16px ,144px;
       line-height: 32px;
     }
   

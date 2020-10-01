@@ -1,18 +1,23 @@
 [
   {
-      "name": "Badla",
-    "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
-    "rate": "⭐⭐"
-  },
+"      ""name"": ""Badla"","
+"    ""desc"": ""Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers."","
+"    ""rate"": ""⭐⭐"""
+"  },"
   {
 
-    "name": "The girl with the dragon tatoo",
-    "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
-    "rate": "⭐⭐⭐⭐"
-  },
+"    ""name"": ""The girl with the dragon tatoo"","
+"    ""desc"": ""Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for."","
+"    ""rate"": ""⭐⭐⭐⭐"""
+"  },"
   {
-    "name": "Gone Girl",
-    "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
-    "rate": "⭐⭐⭐⭐"
+"    ""name"": ""Gone Girl"","
+"    ""desc"": ""Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next."","
+"    ""rate"": ""⭐⭐⭐⭐"""
+"  },"
+  {
+"    ""name"": ""Interstellar"","
+"    ""desc"": ""Interstellar is another masterpiece by the visionary, Christopher Nolan. Painting a stark reality of a possible dystopian future that our planet might face, considering climate change and resource ravaging. Nolan manages to strike that fear into our heart, ""What if it is too late to save our home?"", while depicting it through a hyper realistic setting which deployed such scientific accuracy that unique reasearch papers were written on the basis of his visual depiction of some of the macroverse's theories."","
+"    ""rate"": ""⭐⭐⭐⭭��⭭�"""
   }
 ]

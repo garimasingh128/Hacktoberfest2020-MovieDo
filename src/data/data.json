@@ -1,6 +1,11 @@
 [
   {
-      "name": "Badla",
+  	"name": "Avengers: Endgame",
+    "desc": "‘Avengers: Endgame’ continues from its previous instalment ‘Avengers: Infinity War’, where a chain of catastrophic events destroyed half the universe. The remaining Avengers now come together for one final time to reverse the actions of the evil Thanos and restore the order of the universe.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },

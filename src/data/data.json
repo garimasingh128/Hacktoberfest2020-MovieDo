@@ -1,6 +1,6 @@
 [
   {
-      "name": "Badla",
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
@@ -14,5 +14,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "G.O.R.A",
+    "desc": "A slick young Turk kidnapped by extraterrestrials shows his great « humanitarian spirit » by outwitting the evil commander-in-chief of the planet of G.O.R.A.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]

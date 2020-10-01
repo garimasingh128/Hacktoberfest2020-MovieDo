@@ -16,5 +16,11 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "id": 4,
+    "name": "The Handmaiden",
+    "desc": "With help from an orphaned pickpocket (Kim Tae-ri), a Korean con man (Ha Jung-woo) devises an elaborate plot to seduce and bilk a Japanese woman (Kim Min-hee) out of her inheritance.",
+    "rate": "⭐⭐⭐⭐"
   }
 ]

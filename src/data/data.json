@@ -1,18 +1,32 @@
 [
-  {
-      "name": "Badla",
-    "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
-    "rate": "⭐⭐"
-  },
-  {
-
-    "name": "The girl with the dragon tatoo",
-    "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
-    "rate": "⭐⭐⭐⭐"
-  },
-  {
-    "name": "Gone Girl",
-    "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
-    "rate": "⭐⭐⭐⭐"
-  }
+    {
+        "name": "Badla",
+        "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
+        "rate": "⭐⭐"
+    },
+    {
+        "name": "The girl with the dragon tatoo",
+        "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
+        "rate": "⭐⭐⭐⭐"
+    },
+    {
+        "name": "Gone Girl",
+        "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
+        "rate": "⭐⭐⭐⭐"
+    },
+    {
+        "name": "Avatar",
+        "desc": "Jake, who is paraplegic, replaces his twin on the Na'vi inhabited Pandora for a corporate mission. After the natives accept him as one of their own, he must decide where his loyalties lie.",
+        "rate": "⭐⭐⭐"
+    },
+    {
+        "name": "Avengers",
+        "desc": "Earth's Mightiest Heroes stand as the planet's first line of defense against the most powerful threats in the universe. The Avengers began as a group of extraordinary individuals who were assembled to defeat Loki and his Chitauri army in New York City.",
+        "rate": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "name": "Star Wars: The Force Awakens",
+        "desc": "Set 30 years after Return of the Jedi, The Force Awakens follows Rey, Finn, Poe Dameron, and Han Solo's search for Luke Skywalker and their fight in the Resistance, led by General Leia Organa and veterans of the Rebel Alliance, against Kylo Ren and the First Order, a successor to the Galactic Empire.",
+        "rate": "⭐⭐⭐"
+    }
 ]

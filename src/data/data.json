@@ -14,5 +14,11 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Spectre",
+    "desc": "James Bond receives an obscure message from M about a sinister organisation, 'SPECTRE'. With the help of Madeleine, he uncovers the conspiracy, only to face an ugly truth.",
+    "rate": "⭐⭐⭐⭐"
   }
+
 ]

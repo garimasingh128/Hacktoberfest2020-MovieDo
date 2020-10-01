@@ -1,23 +1,18 @@
-import React,{ Component,Fragment } from 'react';
-import ReactDOM from 'react-dom';
-import Header from './component/Header';
-import Footer from './component/Footer';
-import Main from './component/Main';
+import React, { Fragment } from "react";
+import ReactDOM from "react-dom";
+import Header from "./component/Header";
+import Footer from "./component/Footer";
+import Main from "./component/Main";
+import "./Index.css";
 
-import './Index.css'
+const Place = () => {
+  return (
+    <Fragment>
+      <Header />
+      <Main />
+      <Footer />
+    </Fragment>
+  );
+};
 
-
- class Place extends Component {
-    render() {
-        return (
-            <Fragment>
-            <Header />
-            <Main />
-             <Footer/>    
-            </Fragment>
-        )
-    }
-}
-
-
-ReactDOM.render(  <Place/> , document.getElementById('root'));
+ReactDOM.render(<Place />, document.getElementById("root"));

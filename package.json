@@ -8,9 +8,9 @@
     "bootstrap": "4.3.1",
     "node-sass": "^4.14.1",
     "react": "16.8.6",
-    "react-bootstrap": "1.0.0-beta.15",
+    "react-bootstrap": "^1.0.0-beta.15",
     "react-dom": "16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.0.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"

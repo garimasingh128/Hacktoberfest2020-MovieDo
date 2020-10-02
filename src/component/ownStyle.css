@@ -28,10 +28,10 @@ background: rgb(230,110,171)  !important;
 }
 .card-title {
   margin-bottom: 1.4rem !important;
-  size: 10px;
 }
 
 p {
   margin-top: 4px !important;
   margin-bottom: 1.5rem !important;
+  font-size: 1rem;
 }

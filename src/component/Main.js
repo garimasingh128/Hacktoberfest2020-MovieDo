@@ -1,28 +1,24 @@
 import React, { Component } from "react";
-
-import Card from "react-bootstrap/Card";
-
 import CardColumns from "react-bootstrap/CardColumns";
+import Review from "./Review";
 
 import "./ownStyle.css";
-
 import data from "../data/data.json";
 
-const newdata = data.map((data) => {
-  return (
-    <Card key={data.name}>
-      <Card.Body>
-        <Card.Title>{data.desc}</Card.Title>
-        <Card.Text>{data.name}</Card.Text>
-
-        <a className="btn-primary">{data.rate}</a>
-      </Card.Body>
-    </Card>
-  );
-});
-
 export default class Main extends Component {
+  newdata = data.map((data, index) => {
+    return (
+      <Review key={index} description={data.desc} title={data.name} rating={data.rate} />
+    )
+  })
+
   render() {
-    return <CardColumns className=" m-3 p-3 owncard "> {newdata} </CardColumns>;
+    return (
+      <section className="main">
+        <div className="container-fluid">
+          <CardColumns>{this.newdata}</CardColumns>
+        </div>
+      </section>
+    )
   }
 }

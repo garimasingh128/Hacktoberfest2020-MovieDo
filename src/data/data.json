@@ -14,5 +14,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+   {
+    "name": "The Shawshank Redemption",
+    "desc": "The Shawshank Redemption is a movie about time, patience and loyalty -- not sexy qualities, perhaps, but they grow on you during the subterranean progress of this story, which is about how two men serving life sentences in prison become friends and find a way to fight off despair.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]

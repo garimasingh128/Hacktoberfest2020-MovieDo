@@ -6,8 +6,8 @@ export default class Header extends Component {
   render() {
     return (
       <Fragment>
-        <Navbar bg="dark" variant="dark">
-          <Navbar.Brand href="https://moviedo.netlify.app">
+        <Navbar bg="dark" variant="dark" style={{height: '8vh'}} className="justify-content-center" >
+          <Navbar.Brand href="https://moviedo.netlify.app" >
             MovieGo
           </Navbar.Brand>
         </Navbar>

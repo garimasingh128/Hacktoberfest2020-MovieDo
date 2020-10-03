@@ -10,12 +10,12 @@ import data from "../data/data.json";
 
 const newdata = data.map((data) => {
   return (
-    <Card key={data.id}>
+    <Card key={data.name}>
       <Card.Body>
         <Card.Title>{data.desc}</Card.Title>
         <Card.Text>{data.name}</Card.Text>
 
-        <p className="btn-primary">{data.rate}</p>
+        <a className="btn-primary">{data.rate}</a>
       </Card.Body>
     </Card>
   );

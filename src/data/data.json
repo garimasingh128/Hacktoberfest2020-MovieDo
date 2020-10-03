@@ -2,17 +2,57 @@
   {
       "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
-    "rate": "⭐⭐"
+    "rate": "★★",
+    "poster":"https://m.media-amazon.com/images/M/MV5BYjZiMzIzYTctNDViZi00OWNmLWFmN2YtMmI2OWJiZWViMmY3XkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_.jpg"
   },
   {
 
     "name": "The girl with the dragon tatoo",
     "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
-    "rate": "⭐⭐⭐⭐"
+    "rate": "★★★",
+    "poster":"https://pm1.narvii.com/7031/5e1f13dd2e207f29a2f1bcde311e1f5fac5113e6r1-960-1440v2_hq.jpg"
+  },
+  {
+
+    "name": "Avengers",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+    "rate": "★★★★★",
+    "desc":"Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+   
+  },
+  {
+
+    "name": "IT",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "rate": "★★★★★",
+    "desc":"In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town."
+   
   },
   {
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
-    "rate": "⭐⭐⭐⭐"
+    "rate": "★★★★",
+    "poster":"https://images-na.ssl-images-amazon.com/images/I/91WG-d6NMaL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "John Wick 1",
+    "desc": "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov (Alfie Allen) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife, John unleashes the remorseless killing machine within and seeks vengeance.",
+    "rate": "★★★★",
+    "poster":"https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg"
   }
+  ,
+  {
+    "name": "John Wick 2",
+    "desc": "After gunning down a member of the High Table -- the shadowy international assassin's guild -- legendary hit man John Wick finds himself stripped of the organization's protective services. Now stuck with a $14 million bounty on his head, Wick must fight his way through the streets of New York as he becomes the target of the world's most ruthless killers.",
+    "rate": "★★★★",
+    "poster":"https://images-na.ssl-images-amazon.com/images/I/51%2B7TFyRZ-L.jpg"
+  }
+  ,
+  {
+    "name": "John Wick 3",
+    "desc": "After gunning down a member of the High Table -- the shadowy international assassin's guild -- legendary hit man John Wick finds himself stripped of the organization's protective services. Now stuck with a $14 million bounty on his head, Wick must fight his way through the streets of New York as he becomes the target of the world's most ruthless killers.",
+    "rate": "★★★★★",
+    "poster":"https://i.pinimg.com/originals/c8/0f/35/c80f35ad4c46a48f9fcf7618e47e8399.png"
+  }
+  
 ]

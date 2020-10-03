@@ -14,5 +14,15 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Tanhaji: The Unsung Warrior",
+    "desc": "In 1647, Tanhaji's father, Kaloji Malusare trains him in sword-fighting, later succumbing to a Mughal plunder in Umrat. 17 years later in 1664, a now-adult Tanhaji with his younger brother Suryaji, commands Chhatrapati Shivaji Maharaj's Maratha Army to attack an intruding Mughal cavalry.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Avengers: Endgame",
+    "desc": "Twenty-three days after Thanos used the Infinity Gauntlet to disintegrate half of all life in the universe,[N 1] Carol Danvers rescues Tony Stark and Nebula from deep space and returns them to Earth, where they reunite with the remaining Avengers—Bruce Banner, Steve Rogers, Thor, Natasha Romanoff, and James Rhodes—and Rocket. Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse \"the Snap\", but Thanos reveals he destroyed the Stones to prevent further use. Enraged, Thor decapitates Thanos.",
+    "rate": "⭐⭐⭐⭐"
   }
 ]

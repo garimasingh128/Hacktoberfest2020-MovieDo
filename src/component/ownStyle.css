@@ -19,10 +19,13 @@ background: rgb(230,110,171)  !important;
 
 .card{
   border: none !important;
-  border-radius: 1px !important;
+  border-radius: 6px !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-
 }
+.card:hover{
+  box-shadow: 0 4px 20px 0 rgba(19, 11, 165, 0.5);
+}
+
 .card-body {
   padding: 1.60rem !important;
 }

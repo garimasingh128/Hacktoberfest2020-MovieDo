@@ -1,18 +1,30 @@
 [
   {
-      "name": "Badla",
+    "id": 1,
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
-    "rate": "⭐⭐"
+    "rate": "⭐⭐",
+    "link": "https://en.wikipedia.org/wiki/Badla_(2019_film)"
   },
   {
-
-    "name": "The girl with the dragon tatoo",
+    "id": 2,
+    "name": "The girl with the dragon tattoo",
     "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
-    "rate": "⭐⭐⭐⭐"
+    "rate": "⭐⭐⭐⭐",
+    "link": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo_(2011_film)"
   },
   {
+    "id": 3,
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
-    "rate": "⭐⭐⭐⭐"
+    "rate": "⭐⭐⭐⭐",
+    "link": "https://en.wikipedia.org/wiki/Gone_Girl_(film)"
+  },
+  {
+    "id": 4,
+    "name": "3 Idiots",
+    "desc": "In college, Farhan and Raju form a great bond with Rancho due to his positive and refreshing outlook to life. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive. It makes me feel that if one enjoys his studies he can end up with a marvellous work",
+    "rate": "⭐⭐⭐⭐⭐",
+    "link": "https://en.wikipedia.org/wiki/3_Idiots"
   }
 ]

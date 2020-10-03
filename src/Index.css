@@ -3,5 +3,7 @@ body{
   padding: 0;
   box-sizing: border-box;
   font-size: 30px;
+  width: 100%;
+  height: 100%;
   background-color: rgba(167, 214, 251, 0.7);
 }

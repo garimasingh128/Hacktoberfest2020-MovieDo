@@ -1,11 +1,10 @@
 [
   {
-      "name": "Badla",
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
   {
-
     "name": "The girl with the dragon tatoo",
     "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
     "rate": "⭐⭐⭐⭐"
@@ -14,5 +13,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Code 8",
+    "desc": "Code 8 is a 2019 Canadian science fiction action film written and directed by Jeff Chan, about a man with superpowers who works with a group of criminals to raise money to help his sick mother. The film is a feature-length version of the 2016 short film of the same name.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]

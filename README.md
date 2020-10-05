@@ -192,7 +192,7 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
-## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge and win some SWAGS. 😃
 
 ## Happy?? Star ⭐ this Repo. 🤩
 

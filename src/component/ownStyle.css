@@ -35,3 +35,23 @@ p {
   margin-top: 4px !important;
   margin-bottom: 1.5rem !important;
 }
+
+@media screen and (min-width: 580px) {
+  .card-columns {
+    -webkit-column-count: 2;
+    column-count: 2;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .card-columns {
+    -webkit-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 1.5rem;
+    -moz-column-gap: 1.5rem;
+    grid-column-gap: 1.25rem;
+    column-gap: 1.5rem;
+    orphans: 1;
+    widows: 1;
+  }
+}

@@ -54,7 +54,7 @@ and that counts as your first PR. 🎯
 ### 💻 Make all Pull requests to the "develop" branch only. Let's maintain a stable master branch that is deployed. Changes would be merged later on to the master branch.
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
-### 1. 👇🏻Register yourself for Hacktoberfest 2019
+### 1. 👇🏻Register yourself for Hacktoberfest 2020
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
 

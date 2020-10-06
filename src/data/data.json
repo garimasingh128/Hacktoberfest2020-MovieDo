@@ -19,5 +19,49 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
-  }
-]
+  },
+  {
+    "name": "The Boys ",
+    "desc": "A group of vigilantes sets out to take down corrupt superheroes who abuse their superpowers.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "The Godfather",
+    "desc": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "The Dark Knight",
+    "desc": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "Pulp Fiction",
+    "desc": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Fight Club",
+    "desc": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "Inception",
+    "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "Joker",
+    "desc": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "WALL·E",
+    "desc": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Your Name.",
+    "desc": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "rate": "⭐⭐⭐⭐⭐"
+  },

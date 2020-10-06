@@ -1,23 +1,37 @@
 [
   {
-      "name": "Badla",
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
   {
-
     "name": "The girl with the dragon tatoo",
     "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
     "rate": "⭐⭐⭐⭐"
   },
   {
-  	"name": "Edge of tomorrow",
-  	"desc": "Edge of tomorrow is a great sci-fi genre movie. Featuring Tom Cruise and Emily Blunt. The plot of this movies revolves around alien invasion on the planet Earth.",
-  	"rate": "⭐⭐⭐⭐⭐"
+    "name": "Edge of tomorrow",
+    "desc": "Edge of tomorrow is a great sci-fi genre movie. Featuring Tom Cruise and Emily Blunt. The plot of this movies revolves around alien invasion on the planet Earth.",
+    "rate": "⭐⭐⭐⭐⭐"
   },
   {
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Kill Bill Vol. 1",
+    "desc": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "Kill Bill Vol. 2",
+    "desc": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Waiting to Exhale",
+    "desc": "Based on Terry McMillan's novel, this film follows four very different African-American women and their relationships with the male gender.",
     "rate": "⭐⭐⭐⭐"
   }
 ]

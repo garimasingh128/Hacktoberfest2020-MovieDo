@@ -19,5 +19,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
-  }
+  },
+ {
+   "name": "Yeh Jawani Hai Deewani"
+   "desc":" Yeh Jawaani Hai Deewani is a story of the exhilarating and terrifying journey of four characters as they navigate through their youth; from their carefree laughter as they set off on a holiday together in their college days, until their bittersweet tears as they watch the first of their bunch get married"
+   "rate":"⭐⭐⭐⭐"
+ }
 ]

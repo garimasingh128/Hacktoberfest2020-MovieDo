@@ -1,7 +1,7 @@
 // @flow
 import React from 'react';
 
-import './footer.css';
+import './styling/Footer_.scss';
 
 const footer = () => {
   return (

@@ -1,0 +1,41 @@
+@import "./variables";
+@import "./Footer_.scss";
+
+.btn-primary{
+  border: none;
+  border-radius: 1px;
+  background: $primary-color;
+  background: linear-gradient(90deg, $star-color-light 20%, $star-color-dark 80%);
+}
+
+a{
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px ;
+}
+
+a:hover {
+  text-decoration: none;
+  background: $primary-color !important;
+
+}
+
+.card{
+  border: none !important;
+  border-radius: 1px !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+.card-body {
+  padding: 1.60rem !important;
+}
+
+.card-title {
+  margin-bottom: 1.4rem !important;
+  size: 10px;
+}
+
+p {
+  margin-top: 4px !important;
+  margin-bottom: 1.5rem !important;
+}

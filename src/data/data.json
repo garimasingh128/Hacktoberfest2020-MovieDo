@@ -19,5 +19,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Ready Player One",
+    "desc": "Ready Player One takes place in 2045, when much of humanity uses the virtual reality software OASIS (Ontologically Anthropocentric Sensory Immersive Simulation) to escape the desolation of the real world. Orphaned teenager Wade Watts (Sheridan) finds clues to a hidden game that promises OASIS's ownership to the winner, and he and four allies try to complete it before a corporation run by businessman Nolan Sorrento (Mendelsohn) can do so.",
+    "rate": "⭐⭐⭐⭐"
   }
 ]

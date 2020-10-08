@@ -1,4 +1,4 @@
-$padding-space: 144px;
+@import "variables.scss";
 
 footer {
   clear: both;
@@ -11,11 +11,11 @@ footer {
     border-top: 1px solid #e7eaf3 !important;
     text-align: center;
     margin: 0;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-  background-color: #343A40;
-  color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
     overflow: hidden;
     .translate-button {
       text-align: left;

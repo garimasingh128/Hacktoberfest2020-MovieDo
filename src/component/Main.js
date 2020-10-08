@@ -4,7 +4,7 @@ import Card from "react-bootstrap/Card";
 
 import CardColumns from "react-bootstrap/CardColumns";
 
-import "./ownStyle.css";
+import "./styling/App.scss";
 
 import data from "../data/data.json";
 

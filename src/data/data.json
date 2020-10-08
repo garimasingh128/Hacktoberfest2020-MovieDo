@@ -19,5 +19,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Star Wars",
+    "desc": "Star Wars is a science-fiction franchise comprising movies, books, comics, video games, toys, live action shows, and animated shows. It is a fictional universe created by George Lucas.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]

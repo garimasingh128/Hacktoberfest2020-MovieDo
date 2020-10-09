@@ -21,8 +21,9 @@ background: rgb(230,110,171)  !important;
   border: none !important;
   border-radius: 1px !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-
+  background-color: #FCE38A;
 }
+
 .card-body {
   padding: 1.60rem !important;
 }
@@ -34,4 +35,8 @@ background: rgb(230,110,171)  !important;
 p {
   margin-top: 4px !important;
   margin-bottom: 1.5rem !important;
+}
+
+.Navbar{
+  background-color: #364F6B;
 }

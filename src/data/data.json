@@ -19,5 +19,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "desc": "Después de haber adquirido la Gema del Poder que había quedado bajo custodia de los Nova Corps en el planeta Xandar, el malvado titán intergaláctico Thanos, intercepta la nave espacial que transportaba a los sobrevivientes de la destrucción de Asgard y la ataca.",
+    "rate": "⭐⭐⭐⭐"
   }
 ]

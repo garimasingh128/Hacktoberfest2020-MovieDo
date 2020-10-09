@@ -24,5 +24,10 @@
      "name": "Hacksaw Ridge",
     "desc": "It is a movie based in a real history that tells the stoy of a man that goes to the second world war like a medic and becomes a hero.",
     "rate": "⭐⭐⭐⭐⭐ "
+  },
+  {
+    "name": "The Lego Movie",
+    "desc": "An ordinary LEGO figurine, which was believed to save the world, is accompanied by a group of strangers who embark on a quest to defeat the tyrant for a terrible deed.",
+    "rate": "⭐⭐⭐"
   }
 ]

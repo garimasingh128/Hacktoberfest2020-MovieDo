@@ -1,6 +1,6 @@
 [
   {
-      "name": "Badla",
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
@@ -18,6 +18,11 @@
   {
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Ready player one",
+    "desc": "La historia sigue los pasos del joven Wade Owen Watts, un jugador de videojuegos del año 2045 que, como el resto de la humanidad, prefiere el metauniverso de realidad virtual OASIS al cada vez más sombrío mundo real. En este lugar su creador escondió las piezas de un rompecabezas cuya resolución conduce a una fortuna de medio billón de dólares y el control total de la empresa que mantiene OASIS. Las claves del enigma están basadas en la cultura popular de los años 80 y la vida del creador. Durante años, millones de humanos han intentado dar con ellas, sin éxito. Wade logra resolver el primer rompecabezas del premio, y, a partir de ese momento, debe competir contra miles de jugadores y una empresa rival para conseguir el trofeo que es un huevo de pascua.",
     "rate": "⭐⭐⭐⭐"
   }
 ]

@@ -1,4 +1,4 @@
-[
+﻿[
   {
       "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
@@ -19,5 +19,10 @@
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
     "rate": "⭐⭐⭐⭐"
+  }
+{
+    "name": "John Wick",
+    "desc": "es una franquicia de medios de acción y suspenso neo-noir estadounidense creada por el guionista Derek Kolstad y propiedad de Summit Entertainment. Keanu Reeves interpreta a John Wick, un sicario retirado que busca venganza por la muerte del perro que le dio su esposa recientemente fallecida.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]

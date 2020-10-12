@@ -1,6 +1,5 @@
-[
-  {
-      "name": "Badla",
+[{
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
@@ -11,9 +10,9 @@
     "rate": "⭐⭐⭐⭐"
   },
   {
-  	"name": "Edge of tomorrow",
-  	"desc": "Edge of tomorrow is a great sci-fi genre movie. Featuring Tom Cruise and Emily Blunt. The plot of this movies revolves around alien invasion on the planet Earth.",
-  	"rate": "⭐⭐⭐⭐⭐"
+    "name": "Edge of tomorrow",
+    "desc": "Edge of tomorrow is a great sci-fi genre movie. Featuring Tom Cruise and Emily Blunt. The plot of this movies revolves around alien invasion on the planet Earth.",
+    "rate": "⭐⭐⭐⭐⭐"
   },
   {
     "name": "Gone Girl",
@@ -24,6 +23,10 @@
     "name": "The Matrix",
     "desc": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
     "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "Good Will Hunting",
+    "desc": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
-
 ]

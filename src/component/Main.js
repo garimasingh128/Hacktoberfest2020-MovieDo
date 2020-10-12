@@ -10,19 +10,16 @@ import data from "../data/data.json";
 
 const newdata = data.map((data) => {
   return (
-    <Card key={data.name}>
-      <Card.Body>
-        <Card.Title>{data.desc}</Card.Title>
-        <Card.Text>{data.name}</Card.Text>
-
-        <a className="btn-primary">{data.rate}</a>
-      </Card.Body>
-    </Card>
+    <div class="card" key={data.name}>
+      <div class="card-header">{data.name} <br></br> <a className="btn-primary">{data.rate}</a></div>
+        <div class="card-body">{data.desc} </div>
+    </div>
   );
 });
 
 export default class Main extends Component {
   render() {
-    return <CardColumns className=" m-3 p-3 owncard "> {newdata} </CardColumns>;
+    return <CardColumns className="mt-2 mr-2 ml-2"> {newdata} </CardColumns>;
   }
 }
+

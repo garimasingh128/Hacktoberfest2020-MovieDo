@@ -1,11 +1,10 @@
 [
   {
-      "name": "Badla",
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
   {
-
     "name": "The girl with the dragon tatoo",
     "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
     "rate": "⭐⭐⭐⭐"
@@ -24,6 +23,10 @@
     "name": "The Matrix",
     "desc": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
     "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "The Hateful Eight",
+    "desc": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters. Western mystery film written and directed by Quentin Tarantino.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
-
 ]

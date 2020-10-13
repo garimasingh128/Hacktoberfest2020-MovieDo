@@ -51,6 +51,8 @@ and that counts as your first PR. 🎯
 
 ### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
 
+### 💻 Make all Pull requests to the "develop" branch only. Let's maintain a stable master branch that is deployed. Changes would be merged later on to the master branch.
+
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2019
 ###### Link to register: https://hacktoberfest.digitalocean.com/
@@ -186,7 +188,7 @@ https://github.com/your-username/Hacktoberfest2020-MovieDo.git
 
 ### 8. 👇🏻Create Pull Request
 
-###### At this point, you are ready to make a pull request to the original repository.
+###### At this point, you are ready to make a pull request to the original repository. Make PRs' to the develop branch only!
 
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 

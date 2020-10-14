@@ -10,12 +10,12 @@ import data from "../data/data.json";
 
 const newdata = data.map((data) => {
   return (
-    <Card key={data.id}>
+    <Card style={{flex: '0 0 32.22222%'}} key={data.name}>
       <Card.Body>
         <Card.Title>{data.desc}</Card.Title>
         <Card.Text>{data.name}</Card.Text>
 
-        <p className="btn-primary">{data.rate}</p>
+        <button className="btn-primary">{data.rate}</button>
       </Card.Body>
     </Card>
   );
@@ -23,6 +23,6 @@ const newdata = data.map((data) => {
 
 export default class Main extends Component {
   render() {
-    return <CardColumns className=" m-3 p-3 owncard "> {newdata} </CardColumns>;
+    return <CardColumns style={{display: 'inline-flex', flexDirection: 'row',flexWrap:'wrap'}} className=" m-3 p-3 owncard "> {newdata} </CardColumns>;
   }
 }

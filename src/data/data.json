@@ -1,11 +1,10 @@
 [
   {
-      "name": "Badla",
+    "name": "Badla",
     "desc": "Naina, a successful entrepreneur and married woman, gets caught in a web of accusations when her lover is found dead. She then hires a reputable lawyer to work with her on the case and find answers.",
     "rate": "⭐⭐"
   },
   {
-
     "name": "The girl with the dragon tatoo",
     "desc": "Mikael Blomkvist, a journalist, hires Lisbeth Salander, a computer hacker, to solve the mystery of a woman who has been missing for forty years. The two discover more than they bargained for.",
     "rate": "⭐⭐⭐⭐"
@@ -13,6 +12,21 @@
   {
     "name": "Gone Girl",
     "desc": "Gone Girl is art and entertainment, a thriller and an issue, and an eerily assured audience picture. It is also a film that shifts emphasis and perspective so many times that you may feel as though you're watching five short movies strung together, each morphing into the next.",
-    "rate": "⭐⭐⭐⭐⭐"
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "The Girl Next Door",
+    "desc": "A teenager's dreams come true when a former porn star moves in next door and they fall in love.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "Ghost",
+    "desc": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+    "rate": "⭐⭐⭐⭐"
+  },
+  {
+    "name": "An Easy Girl",
+    "desc": "Naima is 16 and lives in Cannes. She has given herself the summer to choose what she wants to do with her life. Then her cousin Sofia, with her alluring lifestyle, arrives to spend the holidays with her.",
+    "rate": "⭐⭐⭐"
   }
 ]

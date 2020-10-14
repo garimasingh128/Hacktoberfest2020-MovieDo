@@ -1,34 +1,23 @@
 .btn-primary{
   border: none;
   border-radius: 1px;
-  background: rgb(230,110,171);
-  background: linear-gradient(90deg, rgba(230,110,171,0.9808298319327731) 20%, rgba(198,98,226,1) 80%);
+  background-color: transparent;
+  font-size: xx-large;
 }
-
 a{
   text-decoration: none;
   font-size: 20px;
   padding: 5px ;
 }
-
 a:hover {
 text-decoration: none;
-background: rgb(230,110,171)  !important;
-
+background:gold  !important;
+opacity: .3;
+border-radius: 30%;
 }
 
-.card{
-  border: none !important;
-  border-radius: 1px !important;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-
-}
 .card-body {
-  padding: 1.60rem !important;
-}
-.card-title {
-  margin-bottom: 1.4rem !important;
-  size: 10px;
+  font-size: medium;
 }
 
 p {
@@ -38,4 +27,10 @@ p {
 #link:hover {
   background: white !important;
   font-size: 25px;
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .card {
+    display: flex;
+    flex-direction: column;
+  }
 }

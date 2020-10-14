@@ -1,8 +1,15 @@
 .btn-primary{
   border: none;
+  width:5.27em;
   border-radius: 1px;
+  display:flex;
+  overflow: hidden;
   background: rgb(230,110,171);
   background: linear-gradient(90deg, rgba(230,110,171,0.9808298319327731) 20%, rgba(198,98,226,1) 80%);
+}
+
+.btn-primary{
+  pointer-events: none;
 }
 
 a{

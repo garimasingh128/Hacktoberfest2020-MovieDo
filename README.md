@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://moviedo.netlify.app">MovieDo🧙🏻‍♂️ 🧙🏻‍♀️</a> "Get movie reviews at a click 🎯"
+    <a href="https://moviedo.netlify.app">MovieDo🧙🏻‍♂️ 🧙🏻‍♀️</a> "Get  movie reviews at a click 🎯"
 </h1>
 
 
@@ -19,7 +19,7 @@
 
 
 
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your favorite movie, its rating and its short description in our 
+🎯 If you are a beginner, and looking for your first contribution, we are here  to help. Just append your favorite movie, its rating  and its short description in our 
 https://github.com/garimasingh128/Hacktoberfest2020-MovieDo/tree/master/src/data/data.json
 and that counts as your first PR. 🎯
 </br>
@@ -29,7 +29,7 @@ and that counts as your first PR. 🎯
 2. 🎯Add another json object in the same format of your favourite movie
 3. 🎯Save your changes.
 4. 🎯The movie card will appear on your homepage at `http://localhost:8000`!
-5. 🎯Done! Ready to create your pull request?
+5. 🎯Done! Ready  to  create your pull request?
 
 ## Features 💪🏼
 + Uses [Bulma CSS](https://bulma.io/).

@@ -3,7 +3,7 @@
 We intend to create an inclusive environment for everyone, regardless of ethnicity, religion, skin color, national origin, age, disability, sexual orientation, gender identity, parental status, marital status and political belonging as well as gender-specific expression, mental illness, socio-economic status or background. We are united by these values and uphold our unique differences.
 
 
-## Introduction
+
 
 - We are dedicated to providing a `harassment free` experience for everyone, and we do not tolerate harassment of participants in any form. We ask you to be considerate of others and behave professionally and respectfully to all other participants.
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://moviedo.netlify.app">MovieDo🧙🏻‍♂️ 🧙🏻‍♀️</a> "Get movie reviews at a click 🎯"
+    <a href="https://moviedo.netlify.app">MovieDo🧙🏻‍♂️ 🧙🏻‍♀️</a> "Get a  movie reviews at one click 🎯"
 </h1>
 
 
@@ -38,7 +38,7 @@ and that counts as your first PR. 🎯
 + Complete separation of data & code.
 + View it [live](https://moviedo.netlify.app)
 
-## Contributing to Hacktoberfest 2020 👨🏼‍💻
+## Contribute hactober 2020 to grab a swag tshirt 👨🏼‍💻
  <img src="hacktober.png" />
  Open source is changing the world - one pull request at a time.
 🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
